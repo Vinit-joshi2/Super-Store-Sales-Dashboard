@@ -8,7 +8,7 @@ The objective of this project is to analyze the sales data of a super store usin
 
 1.Total Number of Sales
 
-- Determine the Total Number of sales has been done
+- Determine the Total Number of sales has been done 
     
 2. Total Number of quantity
    
