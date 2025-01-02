@@ -10,12 +10,15 @@ The objective of this project is to analyze the sales data of a super store usin
   - Determine the Total Number of sales has been done
     
 2. Total Number of quantity
-  - Calculating the Total number of product quantity in our data
+   
+   - Calculating the Total number of product quantity in our data
     
 3.Total Number of profit
+
   - Identiity and analyze the Total number of profit has been earned by super store
     
 4. Average Time to take delivery
+   
    - Determine the average time is taking to delivery any product to the custome
   
 
