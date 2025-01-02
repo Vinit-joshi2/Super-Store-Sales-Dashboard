@@ -7,11 +7,11 @@ The objective of this project is to analyze the sales data of a super store usin
 <h2> KPI Requirement  </h2>
 1.Total Number of Sales
 
-   Determine the Total Number of sales has been done
+    Determine the Total Number of sales has been done
     
 2. Total Number of quantity
    
-   Calculating the Total number of product quantity in our data
+    Calculating the Total number of product quantity in our data
     
 3.Total Number of profit
 
