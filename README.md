@@ -4,7 +4,7 @@ Project Objective:
 
 The objective of this project is to analyze the sales data of a super store using Power BI to uncover insights and trends that can drive business decisions. The project focuses on exploring various metrics such as total sales, sales by category, region, and payment methods, and forecasting future sales trends.
 
-KPI Requirement 
+<h2>KPI Requirement <h2/> 
 
 1.Total Number of Sales
 
@@ -23,7 +23,7 @@ KPI Requirement
 - Determine the average time is taking to delivery any product to the custome
   
 
-<h2>Key Insight <h2/>
+Key Insight 
 - Sales by payment mode - The analysis reveals that 43% of sales were
 complete through COD
 
