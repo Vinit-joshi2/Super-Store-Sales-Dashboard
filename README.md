@@ -23,7 +23,7 @@ The objective of this project is to analyze the sales data of a super store usin
 - Determine the average time is taking to delivery any product to the custome
   
 
-<h2>Key Insight <h/>
+<h2>Key Insight <h2/>
 - Sales by payment mode - The analysis reveals that 43% of sales were
 complete through COD
 
